@@ -74,7 +74,7 @@ module.exports = {
 
 👋 Hi ${senderName}!
 
-🔧 Bot: ${config.BOTNAME || 'SARDAR RDX'}
+🔧 Bot: ${config.BOTNAME || '🩷𓆩๛⃝𝗠𝐚ɴ❍𓆪𓆤'}
 📌 Prefix: ${config.PREFIX}
 📊 Commands: ${commandCount}
 ⏰ Uptime: ${hours}h ${minutes}m ${seconds}s
@@ -99,4 +99,5 @@ Type ${config.PREFIX}help for commands!
     }
   }
 };
+
 
